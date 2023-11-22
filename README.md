@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+
+- Feature: NavBar with sections
+- Feature: Smooth scroll functionality with the NavBar to the different components
 
 ## Video Walkthrough
 
