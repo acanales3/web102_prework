@@ -1,8 +1,8 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: **Alex Canales**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **X** hours spent in total
 
@@ -40,6 +40,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Adding the optional NavBar at the end of the project that I encorporated. Overall, a very good prework for the class that was very infrormational, and I am very excited to take the course later.
 
 ## License
 
